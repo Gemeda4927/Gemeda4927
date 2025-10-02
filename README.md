@@ -1,78 +1,136 @@
-# 👋 Hi, I’m Gemeda Tamiru
+# 👋 Hi, I'm Gemeda Tamiru
 
-## 👨‍💻 Professional Summary
-🌐 Full-Stack Developer (Web & Mobile) with hands-on experience in:
-
-### Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-HTML | CSS | JS | TypeScript | Tailwind CSS | Python  
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | Express.js | PHP  
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## 💫 About Me
+🎓 **Software Engineering Student** @ Jimma University Institute of Technology  
+🚀 **Passionate Full-Stack Developer** focused on **digital solutions for community impact**  
+🌍 **Special interest**: Building tech solutions for **pastoralist & rural communities**
 
 ---
 
-## 🔭 Currently Learning
-- 🤖 AI & Machine Learning  
-- ☁️ Cloud & DevOps  
-- 🛡️ Networking & Cybersecurity  
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Delala E-commerce
+**Flutter & React Full-Stack Solution**
+- 📱 Cross-platform mobile app
+- 🌐 Responsive web dashboard
+- 🎯 AI-powered recommendations
+- 🔗 [Live Demo](https://github.com/gemedatamiru/delala) | 📂 [Source Code](https://github.com/gemedatamiru/delala)
+
+### 👥 E-Edir System
+**Modern Community Management Platform**
+- 💰 Digital financial management
+- 👥 Member management system
+- 📊 Analytics & reporting
+- 🔗 [View Project](https://github.com/gemedatamiru/edir-system)
+
+### ✅ Flutter Todo App
+**Clean Architecture Task Management**
+- 🏗️ MVVM Architecture
+- 🎨 Beautiful UI/UX
+- 📱 Offline capability
+- 🔗 [Explore Code](https://github.com/gemedatamiru/flutter-todo)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![Gemeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemedatamiru&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gemedatamiru&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gemedatamiru&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
+
+</div>
 
 ---
 
 ## 🏆 Achievements
-- 🥇 3rd Place – **JU-Hackathon 2024** & Venture Meda 360 (E-commerce with AI)  
-- 🎓 Top 10 Students – **Jimma University CGPA** (2023 Freshman Year)  
+
+| 🥉 | **3rd Place** - JU Hackathon 2024 & Venture Meda 360 |
+|---|-----------------------------------------------------|
+| 🎯 | **E-commerce with AI Integration** |
+| 🏅 | **Top 10 Students** - Jimma University (2023) |
+| 📚 | **Excellent Academic Performance** |
 
 ---
 
-## 💻 Projects Showcase
+## 📚 Currently Learning
 
-| Project | Description | Demo |
-|---------|-------------|------|
-| **Delala E-commerce** | Mobile & Web platform for online shopping | [View](https://github.com/gemedatamiru/delala) |
-| **E-Edir System** | Modern digital system for community Edir management | [View](https://github.com/gemedatamiru/edir-system) |
-| **Flutter Todo App** | Simple task management app built with Flutter | [View](https://github.com/gemedatamiru/flutter-todo) |
+<div align="center">
 
-![Project GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD93D?style=for-the-badge&logo=python&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-6BCEFF?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-78C257?style=for-the-badge&logo=gitlab&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
 
----
-
-## 🛠 Skills & Tech Stack
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-MySQL | MongoDB | Figma | VS Code | Trello | Postman | Swagger  
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Gemeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemedatamiru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemedatamiru&layout=compact&theme=radical)
+## 🌟 Future Goals
+
+### 🎯 Short-Term
+- 💼 Land a **Full-Stack Developer** role
+- 🤝 Contribute to **open-source projects**
+- 🏆 Participate in **more hackathons**
+
+### 🚀 Mid-Term  
+- 🌱 Build **pastoralist-focused solutions**
+- 📱 Launch **community apps**
+- 🔄 Master **AI/ML integration**
+
+### 🌍 Long-Term
+- 🏢 Start **tech startup**
+- 💡 Solve **real community problems**
+- 👨‍🏫 Mentor **aspiring developers**
 
 ---
 
-## 🌐 Connect with Me
-📨 Email: gemedatam@gmail.com  
-🌐 Portfolio: [www.gemedatamiru.dev](https://www.gemedatamiru.dev)  
-🔗 LinkedIn: [linkedin.com/in/gemedatamiru](https://linkedin.com/in/gemedatamiru)  
-📱 Telegram: @YourUsername  
-🔗 Facebook | Instagram | X  
+## 📞 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gemedatam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gemedatamiru.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gemedatamiru)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gemedatamiru)
+
+</div>
 
 ---
 
-## 🎯 Future Goals
-**Short-Term:** Contribute as a Full-Stack Developer on impactful projects.  
-**Mid-Term:** Build innovative digital solutions for pastoralist & rural areas.  
-**Long-Term:** Launch a tech startup focused on community development.  
+<div align="center">
+
+### ✨ *"Code with purpose, innovate for impact, and always keep learning!"* ✨
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
 
 ---
 
-✨ “Code with purpose, innovate for impact, and always keep learning!”  
+*⭐ Don't forget to check out my repositories and star the ones you like!*
