@@ -1,11 +1,20 @@
-# 👋 Hi, I'm Gemeda Tamiru
-
-## 💫 About Me
-🎓 **Software Engineering Student** @ Jimma University Institute of Technology  
-🚀 **Passionate Full-Stack Developer** focused on **digital solutions for community impact**  
-🌍 **Special interest**: Building tech solutions for **pastoralist & rural communities**
+<h1 align="center">
+  <span style="font-size: 3rem; background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm <b>Gemeda Tamiru</b>
+  </span>
+</h1>
 
 ---
+
+## 💫 <span style="color:#4D96FF;">About Me</span>  
+
+🎓 <b style="color:#FF6B6B;">Software Engineering Student</b> @ Jimma University Institute of Technology  
+🚀 <b style="color:#6BCB77;">Passionate Full-Stack Developer</b> focused on <i>digital solutions for community impact</i>  
+🌍 <b style="color:#FFD93D;">Special interest</b>: Building tech solutions for <b>pastoralist & rural communities</b>  
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
