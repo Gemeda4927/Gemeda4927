@@ -6,11 +6,11 @@
 
 ---
 
-## 💫 <span style="color:#4D96FF;">About Me</span>  
+##  <span style="color:#4D96FF;">About Me</span>  
 
-🎓 <b style="color:#FF6B6B;">Software Engineering Student</b> @ Jimma University Institute of Technology  
-🚀 <b style="color:#6BCB77;">Passionate Full-Stack Developer</b> focused on <i>digital solutions for community impact</i>  
-🌍 <b style="color:#FFD93D;">Special interest</b>: Building tech solutions for <b>pastoralist & rural communities</b>  
+ <b style="color:#FF6B6B;">Software Engineering Student</b> @ Jimma University Institute of Technology  
+ <b style="color:#6BCB77;">Passionate Full-Stack Developer</b> focused on <i>digital solutions for community impact</i>  
+<b style="color:#FFD93D;">Special interest</b>: Building tech solutions for <b>pastoralist & rural communities</b>  
 
 ---
 
