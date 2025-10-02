@@ -62,33 +62,42 @@
 
 ---
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Analytics & Activity  
 
 <div align="center">
 
 <!-- 🔥 Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Full-Stack+Developer;💻+Loves+Building+Community+Tech;🌍+Impact+Through+Digital+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🎓+Software+Engineering+Student;🌍+Building+Impactful+Solutions;💻+Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
-<!-- GitHub Stats -->
-![Gemeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GemedaTamiru&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)
+<!-- ⭐ GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GemedaTamiru&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff)
+<!-- 📌 Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=GemedaTamiru&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
+<!-- 🔥 GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsernameHere&theme=tokyonight&hide_border=true&background=0D1117&dates=58A6FF)
+
+---
+
+<!-- 🏆 GitHub Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsernameHere&theme=onedark&no-frame=true&row=1&column=6)
+
+---
+
+<!-- 📈 Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsernameHere&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true)
 
 ---
 
 <!-- 🐍 Contribution Snake Animation -->
-![GitHub Snake Light](https://github.com/GemedaTamiru/GemedaTamiru/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/GemedaTamiru/GemedaTamiru/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/YourUsernameHere/YourUsernameHere/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/YourUsernameHere/YourUsernameHere/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
----
 
 
 ## 🏆 Achievements
