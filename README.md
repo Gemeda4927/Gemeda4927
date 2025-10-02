@@ -62,19 +62,34 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics  
 
 <div align="center">
-  
+
+<!-- 🔥 Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Full-Stack+Developer;💻+Loves+Building+Community+Tech;🌍+Impact+Through+Digital+Solutions)](https://git.io/typing-svg)
+
+---
+
+<!-- GitHub Stats -->
 ![Gemeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemedatamiru&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gemedatamiru&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff)
 
+<!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=gemedatamiru&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
+
+---
+
+<!-- 🐍 Contribution Snake Animation -->
+![GitHub Snake Light](https://github.com/gemedatamiru/gemedatamiru/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/gemedatamiru/gemedatamiru/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
 ---
+
 
 ## 🏆 Achievements
 
