@@ -1,69 +1,133 @@
-<h1 align="center" style="color:#6C63FF;">Hi 👋, I'm <span style="color:#FF6F61;">Gemeda Tamiru</span></h1>
-<h3 align="center" style="color:#4CAF50;">A Passionate Software Developer from Ethiopia 🌍</h3>
+# 👋 Hi, I’m Gemeda Tamiru
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gemeda4927&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/GitHub-Trophy-%236C63FF?style=flat-square&logo=github" alt="Trophies Badge" />
-  </a>
-</p>
+📌 **About Me**  
+I was born in Haraqalloo, Gooroo Doolaa, Guji Zone, Oromia, Ethiopia. Currently, I live in Addis Ababa and pursuing a **B.Sc. in Software Engineering** at **Jimma University Institute of Technology**.
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on [**E- Edir Management System**](https://e-edir.vercel.app/sign-in?redirect_url=https%3A%2F%2Fe-edir.vercel.app%2Fmy-edirs)  
-- 🌱 I’m learning **Flutter**, **Node.js**, and **Machine Learning**  
-- 👯 I’m looking to collaborate on **E-commerce Projects**  
-- 💬 Ask me about **React, Next.js, PHP, MySQL**  
-- 📧 Reach me at **gemedatam@gmail.com**
+## 👨‍💻 Professional Summary
+🌐 Software Engineering student passionate about building scalable digital solutions for **community impact**, especially in **pastoralist and rural areas**.  
+
+**Full-Stack Developer (Web & Mobile)** with hands-on experience in:
+
+### Frontend
+- Flutter  
+- Next.js  
+- React.js  
+- HTML, CSS, JavaScript, TypeScript  
+- Tailwind CSS  
+- Python  
+
+### Backend
+- Node.js & Express.js  
+- PHP  
+
+### Databases
+- MySQL  
+- MongoDB  
+
+🔴 Strong interest in **AI, Cloud Computing, Machine Learning, Networking, Cybersecurity**, and **Community-Centered Digital Innovation**.  
+
+☑️ **Goal:** Leverage technology to solve local and global challenges with high standards.
 
 ---
 
-<h3 align="center" style="color:#FF6F61;">✨ Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/gemeda-tamiru-003411291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gemedatam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🎓 Education
+- **B.Sc. Software Engineering** – Jimma University Institute of Technology  
+- **Expected Graduation:** 2026
 
 ---
 
-<h3 align="center" style="color:#4CAF50;">🛠️ Languages & Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-</p>
+## 🛠 Skills Matrix
+
+**Programming Languages:**  
+- Python – ★★★★☆  
+- Dart (Flutter) – ★★★★☆  
+- JavaScript (React, Next.js) – ★★★★☆  
+- SQL – ★★★★☆  
+- Java – ★★★☆☆  
+- C++ – ★★★☆☆  
+
+**Frameworks & Libraries:**  
+- Flutter | React | Next.js | Node.js | Express  
+
+**Databases:**  
+- MySQL | MongoDB  
+
+**Cloud & DevOps:** Learning phase  
+
+**Tools:**  
+- Figma | Postman | VS Code | IntelliJ | Trello | Swagger  
+
+**Soft Skills:**  
+- Team Leadership | Problem-Solving | Communication | Adaptability  
 
 ---
 
-<h3 align="center" style="color:#FF6F61;">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gemeda4927&show_icons=true&theme=tokyonight&hide_border=true" alt="Gemeda's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemeda4927&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gemeda4927&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
+## 📜 Certifications & Courses
+- Huawei ICT Academy – Networking Fundamentals (2024), HCIA learning  
+- Cloud Fundamentals – Core Infrastructure (2023)  
 
 ---
 
-<h3 align="center" style="color:#4CAF50;">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gemeda4927&theme=dracula&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
-  </a>
-</p>
+## 🏆 Achievements
+- 🥇 3rd Place Winner – JU-Hackathon 2024 & Venture Meda 360 (E-commerce with AI)  
+- 🎓 Top 10 Students – Jimma University CGPA (2023 Freshman Year)  
 
 ---
 
-<h3 align="center" style="color:#6C63FF;">🚀 Let's Build Amazing Things Together!</h3>
+## 🌐 Languages
+- Afaan Oromoo – Native  
+- Amharic – Fluent  
+- English – Proficient  
+
+---
+
+## ✨ Interests
+- Reading & Tech Research  
+- ☕ Coffee culture  
+- 🏀 Basketball  
+- Exploring new places  
+
+---
+
+## 💬 Testimonials
+> “Gemeda is a dedicated student with excellent leadership in software projects.” – Prof. Alemayehu, Jimma University  
+
+> “His ability to quickly learn and apply new technologies made him an asset to our team.” – Internship Supervisor  
+
+---
+
+## 📊 Career Timeline
+- 2021 – Started Software Engineering at Jimma University  
+- 2022 – Joined Google Developer Student Club  
+- 2023 – Built first Flutter Todo App  
+- 2024 – Internship + E-Commerce platform project  
+- 2025 – Edir System project + Huawei Talent  
+- 2026 – Graduation & professional career launch  
+
+---
+
+## 🗝 Future Goals
+**Short-Term:** Work as a Full-Stack Developer contributing to impactful projects.  
+**Mid-Term:** Build digital solutions for pastoralist & rural areas.  
+**Long-Term:** Launch a tech startup focused on community development.  
+
+---
+
+## 🔥 Contact Me
+📨 Email: gemedatam@gmail.com  
+🌐 GitHub: [github.com/gemedatamiru](https://github.com/gemedatamiru)  
+🔗 Portfolio: [www.gemedatamiru.dev](https://www.gemedatamiru.dev)  
+😀 LinkedIn: [linkedin.com/in/gemedatamiru](https://linkedin.com/in/gemedatamiru)  
+📱 Telegram: @YourUsername  
+🔗 Facebook | Instagram | X  
+
+---
+
+## ⚡️ Extra Ideas
+- Add **GitHub stats** using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
+- Showcase **projects with live demos**  
+- Include **tech stack badges**  
+- Add a **“Currently Learning” section** for AI, Cloud, and ML  
+
