@@ -29,8 +29,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-
-### ✨ Software Engineering Student  
 I am a Software Engineering student at Jimma University – Institute of Technology, focused on  Full-Stack Development and  creating solutions that drive community impact.
 
 ### 🔥 Interests  
@@ -44,15 +42,15 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🎯 Quick Highlights
+###  Quick Highlights
 
-- 🎓 **Software Engineering Student** @ Jimma University
-- 💻 **Full-Stack Developer** specializing in React, Next.js & Flutter
-- 🏆 **3rd Place Winner** - JU Hackathon 2024 & Venture Meda 360
-- 🌱 Passionate about **tech solutions for rural communities**
-- 🔭 Currently exploring **AI/ML** and **Cloud Technologies**
-- 💡 Love building **scalable** and **impactful** applications
-- 🤝 Open to **collaborations** and **open-source** contributions
+-  **Software Engineering Student** @ Jimma University
+-  **Full-Stack Developer** specializing in React, Next.js & Flutter
+-  **3rd Place Winner** - JU Hackathon 2024 & Venture Meda 360
+-  Passionate about **tech solutions for rural communities**
+-  Currently exploring **AI/ML** and **Cloud Technologies**
+-  Love building **scalable** and **impactful** applications
+-  Open to **collaborations** and **open-source** contributions
 
 <br clear="right"/>
 
