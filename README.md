@@ -127,13 +127,11 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 [🚀 **Live Demo**](https://agri-market-nine.vercel.app)
 
-
-#### 🔑 Key Features
-
--  **Cattle Market** – Live auctions, GPS tracking, and AI disease detection  
--  **Crop Management** – AI soil analysis, crop planning, and harvest prediction  
--  **Market Intelligence** – Real-time pricing, trend analysis, and optimal routing  
--  **Water Management** – Irrigation planning and rainfall prediction
+### 🔑 Key Features
+-  **Cattle Market** 
+-  **Crop Management**
+-  **Market Intelligence**
+-  **Water Management**
 
 
 
