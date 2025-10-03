@@ -13,9 +13,6 @@
 
 <!-- Social Badges with Animation -->
 <p>
-  <a href="https://linkedin.com/in/gemedatamiru">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
   <a href="mailto:gemedatam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
