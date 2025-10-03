@@ -119,42 +119,18 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 <div align="center">
 
-<div align="center" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); padding: 25px; max-width: 900px; background: #fefce8;">
+### 🌾 AgriMarket - Africa's Premier Agricultural SaaS Platform
+[![AgriMarket](https://your-image-link-here.png)](https://agri-market-nine.vercel.app)
 
-<img src="file:///mnt/data/15653dd3-a4f4-426c-9595-005e5f1c1a6e.png" alt="AgriMarket Hero" style="border-radius: 12px; width:100%; max-width:800px; margin-bottom: 20px;"/>
+Transforming African agriculture with **AI-powered solutions** for farmers, pastoralists, and agricultural communities. Real-time market data, livestock & crop management, and community collaboration—all in one platform.
 
-<h1 style="color:#16a34a; font-weight: 700;">🌾 AgriMarket</h1>
-<p style="font-size: 1.1rem; color:#1c1917;">Africa's Premier Agricultural SaaS Platform</p>
-<p style="font-size:1rem; color:#4b5563; max-width:700px; margin:auto;">
-Transforming African agriculture with <b>AI-powered solutions</b> for farmers, pastoralists, and agricultural communities. Real-time market data, livestock & crop management, and community collaboration—all in one platform.
-</p>
+[🚀 Live Demo](https://agri-market-nine.vercel.app) &nbsp; [📖 Documentation](https://docs.AgriMarket.app) &nbsp; [💬 Community](https://community.AgriMarket.app)
 
-<div style="margin: 20px 0;">
-  <a href="https://agri-market-nine.vercel.app" style="text-decoration:none; background:#16a34a; color:white; padding:12px 25px; border-radius:8px; font-weight:600; margin-right:10px;">🚀 Live Demo</a>
-  <a href="https://docs.AgriMarket.app" style="text-decoration:none; background:#ea580c; color:white; padding:12px 25px; border-radius:8px; font-weight:600; margin-right:10px;">📖 Documentation</a>
-  <a href="https://community.AgriMarket.app" style="text-decoration:none; background:#eab308; color:white; padding:12px 25px; border-radius:8px; font-weight:600;">💬 Community</a>
-</div>
-
-<div style="display:flex; justify-content: space-around; flex-wrap:wrap; margin-top:20px;">
-  <div style="margin:10px; text-align:center;">
-    <h2 style="color:#16a34a;">🐄 Cattle Market</h2>
-    <p>Live auctions, GPS tracking & AI disease detection</p>
-  </div>
-  <div style="margin:10px; text-align:center;">
-    <h2 style="color:#16a34a;">🌱 Crop Management</h2>
-    <p>AI soil analysis, crop planning & harvest prediction</p>
-  </div>
-  <div style="margin:10px; text-align:center;">
-    <h2 style="color:#16a34a;">📊 Market Intelligence</h2>
-    <p>Real-time pricing, trend analysis & optimal routing</p>
-  </div>
-  <div style="margin:10px; text-align:center;">
-    <h2 style="color:#16a34a;">💧 Water Management</h2>
-    <p>Irrigation planning & rainfall prediction</p>
-  </div>
-</div>
-
-</div>
+#### Key Features:
+- 🐄 **Cattle Market** – Live auctions, GPS tracking & AI disease detection  
+- 🌱 **Crop Management** – AI soil analysis, crop planning & harvest prediction  
+- 📊 **Market Intelligence** – Real-time pricing, trend analysis & optimal routing  
+- 💧 **Water Management** – Irrigation planning & rainfall prediction
 
 
 
