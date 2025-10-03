@@ -56,7 +56,7 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
@@ -113,9 +113,11 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <td width="50%">
 
 ### 🛍️ Delala E-commerce Platform
-<a href="https://github.com/gemedatamiru/delala">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemedatamiru&repo=delala&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Delala"/>
 </a>
+*(Link will be shared soon)*
+
 
 **Full-Stack E-commerce Solution**
 - 📱 Cross-platform mobile app (Flutter)
