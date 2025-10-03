@@ -120,7 +120,8 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <div align="center">
 
 ### 🌾 AgriMarket - Africa's Premier Agricultural SaaS Platform
-[![AgriMarket](https://your-image-link-here.png)](https://agri-market-nine.vercel.app)
+[![AgriMarket](https://<img width="1199" height="628" alt="image" src="https://github.com/user-attachments/assets/abaead2f-9053-4f46-8a01-43993475873b" />
+)](https://agri-market-nine.vercel.app)
 
 Transforming African agriculture with **AI-powered solutions** for farmers, pastoralists, and agricultural communities. Real-time market data, livestock & crop management, and community collaboration—all in one platform.
 
