@@ -113,10 +113,16 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <td width="50%">
 
 ### 🛍️ Delala E-commerce Platform
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemedatamiru&repo=delala&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Delala"/>
-</a>
 *(Link will be shared soon)*
+
+**Full-Stack E-commerce Solution**  
+- 📱 Cross-platform mobile app (Flutter)  
+- 🌐 Responsive web dashboard (React)  
+- 🎯 AI-powered product recommendations  
+- 💳 Secure payment integration  
+- 📊 Real-time analytics  
+
+**Tech:** Flutter • React • Node.js • MongoDB
 
 
 **Full-Stack E-commerce Solution**
