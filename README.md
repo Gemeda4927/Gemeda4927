@@ -29,26 +29,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-## 🎓 About Me  
-
-<div align="center">
 
 ### ✨ Software Engineering Student  
 **Jimma University – Institute of Technology**  
-
----
-
 ### 🎯 Focus  
 🌐 **Full-Stack Development** & 💡 **Community Impact Solutions**
 
----
-
 ### 🔥 Interests  
-- 🐪 Building **digital solutions for pastoralist communities**  
-- 🤖 Exploring **AI/ML integration** in web applications  
-- 🌍 Actively contributing to **Open Source**  
-- 📱 Creating **mobile-first applications**  
-- ☁️ Leveraging **Cloud Computing & DevOps**
+- ✅ Building **digital solutions for pastoralist communities**  
+- ✅ Exploring **AI/ML integration** in web applications  
+- ✅ Actively contributing to **Open Source**  
+- ✅ Creating **mobile-first applications**  
+- ✅ Leveraging **Cloud Computing & DevOps**
 
 </div>
 
