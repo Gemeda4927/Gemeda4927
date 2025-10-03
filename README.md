@@ -120,32 +120,24 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <div align="center">
 
 ### 🌾 AgriMarket - Africa's Premier Agricultural SaaS Platform
-[![AgriMarket](https://<img width="1199" height="628" alt="image" src="https://github.com/user-attachments/assets/abaead2f-9053-4f46-8a01-43993475873b" />
-)](https://agri-market-nine.vercel.app)
 
-Transforming African agriculture with **AI-powered solutions** for farmers, pastoralists, and agricultural communities. Real-time market data, livestock & crop management, and community collaboration—all in one platform.
+[![AgriMarket](https://github.com/user-attachments/assets/abaead2f-9053-4f46-8a01-43993475873b)](https://agri-market-nine.vercel.app)
 
-[🚀 Live Demo](https://agri-market-nine.vercel.app) &nbsp; [📖 Documentation](https://docs.AgriMarket.app) &nbsp; [💬 Community](https://community.AgriMarket.app)
+**Transforming African agriculture with AI-powered solutions** for farmers, pastoralists, and agricultural communities. Real-time market data, livestock & crop management, and community collaboration—all in one platform.  
 
-#### Key Features:
-- 🐄 **Cattle Market** – Live auctions, GPS tracking & AI disease detection  
-- 🌱 **Crop Management** – AI soil analysis, crop planning & harvest prediction  
-- 📊 **Market Intelligence** – Real-time pricing, trend analysis & optimal routing  
-- 💧 **Water Management** – Irrigation planning & rainfall prediction
+[🚀 **Live Demo**](https://agri-market-nine.vercel.app)
 
 
+#### 🔑 Key Features
 
-**Full-Stack E-commerce Solution**
-- 📱 Cross-platform mobile app (Flutter)
-- 🌐 Responsive web dashboard (React)
-- 🎯 AI-powered product recommendations
-- 💳 Secure payment integration
-- 📊 Real-time analytics
+-  **Cattle Market** – Live auctions, GPS tracking, and AI disease detection  
+-  **Crop Management** – AI soil analysis, crop planning, and harvest prediction  
+-  **Market Intelligence** – Real-time pricing, trend analysis, and optimal routing  
+-  **Water Management** – Irrigation planning and rainfall prediction
 
-**Tech:** Flutter • React • Node.js • MongoDB
 
-</td>
-<td width="50%">
+
+
 
 ### 👥 E-Edir Management System
 <a href="https://github.com/gemedatamiru/edir-system">
