@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gemeda%20Tamiru&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Software%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1200&color=FF6C37&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=🔥+Passionate+Software+Engineer;⚡+Full-Stack+Developer+%26+Problem+Solver;🌍+Building+Tech+for+Communities;📚+Always+Learning+%26+Innovating;🚀+Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
