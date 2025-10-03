@@ -29,21 +29,28 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-\`\`\`yaml
-name: Gemeda Tamiru
-located_in: Jimma, Ethiopia
-current_role: Software Engineering Student
-education: Jimma University Institute of Technology
-focus: Full-Stack Development & Community Impact Solutions
-interests:
-  - Building digital solutions for pastoralist communities
-  - AI/ML integration in web applications
-  - Open source contribution
-  - Mobile-first development
-  - Cloud computing & DevOps
+## 🎓 About Me  
 
-current_status: "Building the future, one commit at a time 🚀"
-\`\`\`
+<div align="center">
+
+### ✨ Software Engineering Student  
+**Jimma University – Institute of Technology**  
+
+---
+
+### 🎯 Focus  
+🌐 **Full-Stack Development** & 💡 **Community Impact Solutions**
+
+---
+
+### 🔥 Interests  
+- 🐪 Building **digital solutions for pastoralist communities**  
+- 🤖 Exploring **AI/ML integration** in web applications  
+- 🌍 Actively contributing to **Open Source**  
+- 📱 Creating **mobile-first applications**  
+- ☁️ Leveraging **Cloud Computing & DevOps**
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
