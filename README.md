@@ -112,17 +112,41 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <tr>
 <td width="50%">
 
-### 🛍️ Delala E-commerce Platform
-*(Link will be shared soon)*
+<div align="center">
 
-**Full-Stack E-commerce Solution**  
-- 📱 Cross-platform mobile app (Flutter)  
-- 🌐 Responsive web dashboard (React)  
-- 🎯 AI-powered product recommendations  
-- 💳 Secure payment integration  
-- 📊 Real-time analytics  
+<!-- 🎨 Animated Header -->
+<h1 style="color:#ff6f61;">🛍️ Delala E-commerce Platform</h1>
+<p><em style="color:#ffb347;">*(Link will be shared soon)*</em></p>
 
-**Tech:** Flutter • React • Node.js • MongoDB
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Full-Stack E-commerce Solution
+<ul style="list-style-type:none; padding:0; line-height:2;">
+<li>📱 <b>Cross-platform Mobile App</b> (Flutter)</li>
+<li>🌐 <b>Responsive Web Dashboard</b> (React)</li>
+<li>🎯 <b>AI-powered Product Recommendations</b></li>
+<li>💳 <b>Secure Payment Integration</b></li>
+<li>📊 <b>Real-time Analytics</b></li>
+</ul>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+<span style="background:#61dafb; color:#000; padding:4px 10px; border-radius:5px; margin:2px;">Flutter</span>
+<span style="background:#61dafb; color:#000; padding:4px 10px; border-radius:5px; margin:2px;">React</span>
+<span style="background:#f0db4f; color:#000; padding:4px 10px; border-radius:5px; margin:2px;">Node.js</span>
+<span style="background:#4DB33D; color:#fff; padding:4px 10px; border-radius:5px; margin:2px;">MongoDB</span>
+
+</div>
+
 
 
 **Full-Stack E-commerce Solution**
