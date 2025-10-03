@@ -10,9 +10,6 @@
 </a>
 
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=gemedatamiru&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 <!-- Social Badges with Animation -->
 <p>
   <a href="mailto:gemedatam@gmail.com">
