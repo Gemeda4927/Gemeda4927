@@ -123,18 +123,9 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 [![AgriMarket](https://github.com/user-attachments/assets/abaead2f-9053-4f46-8a01-43993475873b)](https://agri-market-nine.vercel.app)
 
-**Transforming African agriculture with AI-powered solutions** for farmers, pastoralists, and agricultural communities. Real-time market data, livestock & crop management, and community collaboration—all in one platform.  
+Imagine a world where African farmers, pastoralists, and agricultural communities are empowered by **AI-driven insights**—predicting crop yields, monitoring livestock health, and accessing real-time market data. AgriMarket makes this vision a reality, connecting communities, optimizing resources, and revolutionizing agriculture across the continent.  
 
-[🚀 **Live Demo**](https://agri-market-nine.vercel.app)
-
-### 🔑 Key Features
--  **Cattle Market** 
--  **Crop Management**
--  **Market Intelligence**
--  **Water Management**
-
-
-
+[🚀 **Explore the Live Demo**](https://agri-market-nine.vercel.app) and witness the future of African agriculture today!
 
 
 ### 👥 E-Edir Management System
