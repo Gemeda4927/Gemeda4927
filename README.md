@@ -31,14 +31,6 @@
 
 I am a Software Engineering student at Jimma University – Institute of Technology, focused on  Full-Stack Development and  creating solutions that drive community impact.
 
-### 🔥 Interests  
--  Building **digital solutions for pastoralist communities**  
--  Exploring **AI/ML integration** in web applications  
--  Actively contributing to **Open Source**  
--  Creating **mobile-first applications**  
--  Leveraging **Cloud Computing & DevOps**
-
-
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
