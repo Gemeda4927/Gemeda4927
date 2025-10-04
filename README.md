@@ -26,9 +26,6 @@
 </div>
 
 
-<br>Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kitessafikadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kitessafikadu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kitessafikadu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kitessafikadu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kitessafikadu@gmail.com
 
 ---
 
@@ -99,123 +96,11 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kitessafikadu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kitessafikadu&theme=dark&hide_border=false)<br/>
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-
----
-
-<div align="center">
-
-### 🌾 AgriMarket - Africa's Premier Agricultural SaaS Platform
-
-[![AgriMarket](https://github.com/user-attachments/assets/abaead2f-9053-4f46-8a01-43993475873b)](https://agri-market-nine.vercel.app)
-
-Imagine a world where African farmers, pastoralists, and agricultural communities are empowered by **AI-driven insights**—predicting crop yields, monitoring livestock health, and accessing real-time market data. AgriMarket makes this vision a reality, connecting communities, optimizing resources, and revolutionizing agriculture across the continent.  
-
-[🚀 **Explore the Live Demo**](https://agri-market-nine.vercel.app) and witness the future of African agriculture today!
-
-
-### 👥 E-Edir Management System
-<a href="https://github.com/gemedatamiru/edir-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemedatamiru&repo=edir-system&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="E-Edir"/>
-</a>
-
-**Community Management Platform**
-- 💰 Digital financial management
-- 👥 Member tracking & analytics
-- 📊 Automated reporting system
-- 🔔 Real-time notifications
-- 📱 Mobile-responsive design
-
-**Tech:** Next.js • TypeScript • MySQL • Tailwind
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ✅ Flutter Todo App
-<a href="https://github.com/gemedatamiru/flutter-todo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemedatamiru&repo=flutter-todo&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Todo App"/>
-</a>
-
-**Clean Architecture Task Manager**
-- 🏗️ MVVM Architecture pattern
-- 🎨 Beautiful Material Design UI
-- 📱 Offline-first capability
-- 🔄 State management with Provider
-- ✨ Smooth animations
-
-**Tech:** Flutter • Dart • SQLite • Provider
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-<a href="https://www.gemedatamiru.dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemedatamiru&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
-</a>
-
-**Personal Portfolio & Blog**
-- 🎨 Modern & responsive design
-- ⚡ Lightning-fast performance
-- 📝 Integrated blog system
-- 🌙 Dark/Light mode toggle
-- 📧 Contact form integration
-
-**Tech:** Next.js • TypeScript • Tailwind • MDX
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gemedatamiru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats"/>
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemedatamiru&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=gemedatamiru&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gemedatamiru&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=gemedatamiru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
----
+<!-- [![](https://visitcount.itsvg.in/api?id=kitessafikadu&icon=1&color=3)](https://visitcount.itsvg.in) -->
 
 ## 🏆 Achievements & Recognition
 
