@@ -97,10 +97,11 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kitessafikadu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kitessafikadu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gemedatamiru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gemedatamiru&theme=dark&hide_border=false)<br/>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=kitessafikadu&icon=1&color=3)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=gemedatamiru&icon=1&color=3)](https://visitcount.itsvg.in) -->
+
 
 ## 🏆 Achievements & Recognition
 
@@ -159,28 +160,39 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 <div align="center">
 
-| Role | Organization | Duration | Highlights |
-|------|-------------|----------|------------|
-| 🚀 **Full-Stack Developer** | Freelance | 2023 - Present | Built 5+ production apps |
-| 💻 **Frontend Developer** | Local Startup | 2023 | React & Next.js projects |
-| 🎓 **Teaching Assistant** | Jimma University | 2023 | Web Development courses |
-| 🤝 **Open Source Contributor** | Various Projects | 2022 - Present | 50+ contributions |
+<table>
+<tr>
+<td align="center" width="30%" style="border: 2px solid #e0e0e0; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<img src="https://img.icons8.com/fluency/96/android-os.png" width="60px"/>
+<br/><b style="font-size:16px;">🚀 Mobile App Developer</b>
+<br/><sub style="font-size:14px; color:#555;">Eaglelion System Technology</sub>
+<br/><sub style="font-size:13px; color:#2a9d8f;">2024 (Internship)</sub>
+<br/><sub style="font-size:13px; color:#555;">✅ Built 1 production app</sub>
+</td>
+
+<td align="center" width="30%" style="border: 2px solid #e0e0e0; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<img src="https://img.icons8.com/color/96/source-code.png" width="60px"/>
+<br/><b style="font-size:16px;">💻 Full-Stack Developer</b>
+<br/><sub style="font-size:14px; color:#555;">Marsa Startup</sub>
+<br/><sub style="font-size:13px; color:#2a9d8f;">2023</sub>
+<br/><sub style="font-size:13px; color:#555;">⚡ React & Next.js projects</sub>
+</td>
+
+<td align="center" width="30%" style="border: 2px solid #e0e0e0; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<img src="https://img.icons8.com/color/96/teacher.png" width="60px"/>
+<br/><b style="font-size:16px;">🎓 Teaching Assistant</b>
+<br/><sub style="font-size:14px; color:#555;">Jimma University</sub>
+<br/><sub style="font-size:13px; color:#2a9d8f;">2024</sub>
+<br/><sub style="font-size:13px; color:#555;">📘 C++ Programming</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable E-commerce with Next.js and MongoDB](https://www.gemedatamiru.dev/blog/scalable-ecommerce)
-- 💡 [Clean Architecture in Flutter: A Practical Guide](https://www.gemedatamiru.dev/blog/flutter-clean-architecture)
-- 🎨 [Modern UI/UX Trends in 2024](https://www.gemedatamiru.dev/blog/ui-ux-trends-2024)
-- 🔐 [Implementing JWT Authentication in Node.js](https://www.gemedatamiru.dev/blog/jwt-authentication)
-- 🌍 [Tech Solutions for Rural Communities](https://www.gemedatamiru.dev/blog/tech-for-rural)
-<!-- BLOG-POST-LIST:END -->
 
 ---
+
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -203,59 +215,11 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <a href="https://www.gemedatamiru.dev">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://t.me/gemedatamiru">
+<a href="https://t.me/Abbaabiyyaa2">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
+
 </p>
-
-### 💬 Open to Opportunities
-
-\`\`\`javascript
-const gemeda = {
-  lookingFor: "Full-Stack Developer Role",
-  openTo: ["Remote Work", "Freelance Projects", "Collaborations"],
-  interests: ["AI/ML", "Community Impact", "Open Source"],
-  availability: "Immediate",
-  contact: "gemedatam@gmail.com"
-};
-
-console.log("Let's build something amazing together! 🚀");
-\`\`\`
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gemedatamiru/gemedatamiru/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gemedatamiru/gemedatamiru/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gemedatamiru/gemedatamiru/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-gemedatamiru.vercel.app/api/spotify)](https://open.spotify.com/user/gemedatamiru)
 
 </div>
 
