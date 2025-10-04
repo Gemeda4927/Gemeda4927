@@ -34,8 +34,6 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-###  Quick Highlights
-
 -  **Software Engineering Student** @ Jimma University
 -  **Full-Stack Developer** specializing in React, Next.js & Flutter
 -  **3rd Place Winner** - JU Hackathon 2024 & Venture Meda 360
