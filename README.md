@@ -131,27 +131,29 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px"/>
-<br/><b>Artificial Intelligence</b>
-<br/><sub>Machine Learning & Deep Learning</sub>
+<td align="center" width="22%" style="border: 2px solid #e0e0e0; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/>
+<br/><b style="font-size:16px;">Artificial Intelligence</b>
+<br/><sub style="font-size:13px; color:#555;">Machine Learning & Deep Learning</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="60px"/>
-<br/><b>Cloud Computing</b>
-<br/><sub>AWS, Azure & GCP</sub>
+
+<td align="center" width="22%" style="border: 2px solid #e0e0e0; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<img src="https://img.icons8.com/color/96/cloud.png" width="70px"/>
+<br/><b style="font-size:16px;">Cloud Computing</b>
+<br/><sub style="font-size:13px; color:#555;">AWS, Azure & GCP</sub>
+<br/><sub style="font-size:13px; color:#2a9d8f;">HCIA-Cloud Computing V5.5</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/docker.png" width="60px"/>
-<br/><b>DevOps</b>
-<br/><sub>CI/CD & Containerization</sub>
+
+<td align="center" width="22%" style="border: 2px solid #e0e0e0; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<img src="https://img.icons8.com/color/96/network.png" width="70px"/>
+<br/><b style="font-size:16px;">Networking</b>
+<br/><sub style="font-size:13px; color:#555;">HCIA-Datacom V1.0</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
----
 
 ## 💼 Work Experience & Contributions
 
