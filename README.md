@@ -118,11 +118,6 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <h3>🏅 Top 10 Student</h3>
 <p><b>Jimma University</b><br/>Academic Excellence<br/>Year 2023</p>
 </td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="80px"/>
-<h3>📚 Dean's List</h3>
-<p><b>Outstanding Performance</b><br/>Software Engineering<br/>Multiple Semesters</p>
-</td>
 </tr>
 </table>
 
@@ -130,7 +125,7 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 🤖 Currently Learning & Exploring
 
 <div align="center">
 
@@ -151,68 +146,10 @@ I am a Software Engineering student at Jimma University – Institute of Technol
 <br/><b>DevOps</b>
 <br/><sub>CI/CD & Containerization</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/blockchain.png" width="60px"/>
-<br/><b>Blockchain</b>
-<br/><sub>Web3 & Smart Contracts</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60px"/>
-<br/><b>Cybersecurity</b>
-<br/><sub>Secure Development</sub>
-</td>
 </tr>
 </table>
 
 </div>
-
----
-
-## 🎯 Goals & Vision
-
-<div align="center">
-
-\`\`\`mermaid
-graph LR
-    A[🎯 Short-Term] --> B[💼 Full-Stack Role]
-    A --> C[🤝 Open Source]
-    A --> D[🏆 Hackathons]
-    
-    E[🚀 Mid-Term] --> F[🌱 Community Apps]
-    E --> G[📱 Pastoralist Solutions]
-    E --> H[🔄 AI/ML Mastery]
-    
-    I[🌍 Long-Term] --> J[🏢 Tech Startup]
-    I --> K[💡 Social Impact]
-    I --> L[👨‍🏫 Mentorship]
-    
-    style A fill:#58A6FF
-    style E fill:#6BCB77
-    style I fill:#FFD93D
-\`\`\`
-
-</div>
-
-### 🎯 Short-Term Goals (2024-2025)
-- 💼 Secure a **Full-Stack Developer** position
-- 🤝 Contribute to **10+ open-source projects**
-- 🏆 Participate in **international hackathons**
-- 📚 Master **AI/ML fundamentals**
-- 🌐 Build **3 production-ready applications**
-
-### 🚀 Mid-Term Goals (2025-2027)
-- 🌱 Launch **tech solutions for pastoralist communities**
-- 📱 Develop **mobile apps with 10K+ users**
-- 🔄 Integrate **AI/ML in real-world applications**
-- 💡 Start **tech community in Jimma**
-- 🎓 Complete **advanced certifications**
-
-### 🌍 Long-Term Vision (2027+)
-- 🏢 Establish a **tech startup** focused on social impact
-- 💡 Create **scalable solutions** for rural communities
-- 👨‍🏫 Mentor **100+ aspiring developers**
-- 🌍 Contribute to **global tech ecosystem**
-- 📖 Publish **technical content & research**
 
 ---
 
