@@ -25,6 +25,11 @@
 
 </div>
 
+
+<br>Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kitessafikadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kitessafikadu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kitessafikadu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kitessafikadu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kitessafikadu@gmail.com
+
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
