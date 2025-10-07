@@ -143,6 +143,6 @@ I am a Software Engineering student at **Jimma University – Institute of Techn
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-⭐️ Don’t forget to star my repositories if you find them useful! ⭐️  
+⭐️ Don’t forget to star my repositories if you find them useful! ⭐️1  
 
 </div>
