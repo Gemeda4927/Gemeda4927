@@ -146,7 +146,7 @@ I am a Software Engineering student at **Jimma University – Institute of Techn
 </p>
 
 <p style="font-size: 18px; color: #FFD700;">
-  ⭐️ If you find my repositories useful, don’t forget to give them a star! ⭐️
+  ⭐️ If you find my repositories useful, don’t forget to give them a star! 
 </p>
 
 <p>
