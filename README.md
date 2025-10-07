@@ -139,10 +139,20 @@ I am a Software Engineering student at **Jimma University – Institute of Techn
 
 <div align="center">
 
-✨ *"Code with purpose, innovate for impact, and always keep learning!"* ✨  
+<h1>✨ "Code with Purpose, Innovate for Impact, and Keep Learning!" ✨</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Waving Capsule"/>
+</p>
 
-⭐️ Don’t forget to star my repositories if you find them useful! ⭐️1  
+<p style="font-size: 18px; color: #FFD700;">
+  ⭐️ If you find my repositories useful, don’t forget to give them a star! ⭐️
+</p>
+
+<p>
+  <a href="https://github.com/your-username?tab=repositories">
+    <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub Stars"/>
+  </a>
+</p>
 
 </div>
