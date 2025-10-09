@@ -27,12 +27,6 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Gemeda4927&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 
-<!-- <CHANGE> Added GitHub stats badges for social proof -->
-<p>
-  <img src="https://img.shields.io/github/followers/Gemeda4927?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Gemeda4927?label=Stars&style=social" alt="GitHub Stars"/>
-</p>
-
 </div>
 
 ---
@@ -291,23 +285,6 @@ mindmap
 
 ---
 
-<!-- <CHANGE> Added featured projects section with pinned repos -->
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Gemeda4927/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemeda4927&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/Gemeda4927/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gemeda4927&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -356,20 +333,48 @@ mindmap
 
 ---
 
-<!-- <CHANGE> Added coding time stats -->
-## ⏱️ Coding Time Stats
+## 🎵 Spotify Playing
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C234%20hrs%2045%20mins-blue)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1234-blue)
+</div>
 
-**I'm a Night 🦉** 
+---
 
-```text
-🌞 Morning                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                120 commits         ███████░░░░░░░░░░░░░░░░░░   30.00 % 
-🌃 Evening                180 commits         ███████████░░░░░░░░░░░░░░   45.00 % 
-🌙 Night                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+<div align="center">
+
+### ✨ "Code with Purpose, Innovate for Impact, and Keep Learning!" ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" alt="Footer Wave"/>
+
+<p style="font-size: 18px;">
+  ⭐️ <strong>If you find my work valuable, consider giving it a star!</strong> ⭐️
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/Gemeda4927?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/Gemeda4927?style=social" alt="GitHub Followers"/>
+</p>
+
+<p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gemeda4927/Gemeda4927/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gemeda4927/Gemeda4927/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gemeda4927/Gemeda4927/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+😊;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" alt="Footer Typing"/>
+</p>
+
+</div>
