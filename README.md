@@ -120,20 +120,6 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gemeda4927&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-
-| 🥉 **JU Hackathon 2024** | 🏅 **Academic Excellence** | 🚀 **Venture Meda 360** |
-|:------------------------:|:-------------------------:|:----------------------:|
-| 3rd Place Winner | Top 10 Student | 3rd Place Winner |
-| Team Leadership | Jimma University 2023 | Innovation Award |
-
-</div>
 
 ---
 
