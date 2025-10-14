@@ -37,40 +37,7 @@
 
 Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused on Full-Stack Development and building impactful solutions. With a strong commitment to innovation, learning, and community improvement, he strives to create technologies that make a real difference in people’s lives.
 
-fields_of_interests:
-  - Web Development
-  - Mobile Development
-  - AI/ML Engineering
-  - Cloud Computing
-  - Open Source
 
-technical_background:
-  - Full-Stack Development (MERN, Next.js)
-  - Mobile Development (Flutter, React Native)
-  - Cloud Technologies (AWS, Firebase, Supabase)
-  - Database Design & Management
-  
-currently_learning:
-  - Artificial Intelligence & Machine Learning
-  - Cloud Architecture (AWS, Azure, GCP)
-  - Advanced Networking (HCIA-Datacom)
-  - DevOps & CI/CD Pipelines
-
-hobbies:
-  - Coding
-  - Problem Solving
-  - Tech Blogging
-  - Community Building
-\`\`\`
-
-### 🎯 Quick Highlights
-
-- 🏆 **3rd Place Winner** - JU Hackathon 2024 & Venture Meda 360
-- 🎓 **Top 10 Student** - Jimma University Academic Excellence 2023
-- 💼 **3+ Years** of Development Experience
-- 🌟 **Open Source Contributor** - Building tools for communities
-- 🚀 **Startup Experience** - Full-Stack Developer at Marsa Startup
-- 📱 **Mobile App Developer** - Intern at Eaglelion System Technology
 
 <br clear="right"/>
 
