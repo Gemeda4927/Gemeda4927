@@ -258,8 +258,6 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 ---
 
-## 🎵 Spotify Playing
-
 <div align="center">
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
@@ -270,12 +268,12 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 <div align="center">
 
-### ✨ "Code with Purpose, Innovate for Impact, and Keep Learning!" ✨
+###"Code with Purpose, Innovate for Impact, and Keep Learning!" 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 <p style="font-size: 18px;">
-  ⭐️ <strong>If you find my work valuable, consider giving it a star!</strong> ⭐️
+   <strong>If you find my work valuable, consider giving it a star!</strong> 
 </p>
 
 <p>
@@ -288,7 +286,7 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </p>
 
-### 🐍 Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gemeda4927/Gemeda4927/output/github-contribution-grid-snake-dark.svg">
