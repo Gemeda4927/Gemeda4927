@@ -122,63 +122,77 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 
 ---
-
-## 💼 Professional Experience
+<h2 align="center">💼 <span style="color:#6C63FF;">Professional Experience</span></h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Mobile App Developer (Intern)
-**Eaglelion System Technology**  
-*2024*
+<h3>🚀 <span style="color:#FF6B6B;">Mobile App Developer (Intern)</span></h3>
+<b style="color:#4ECDC4;">Eaglelion System Technology</b><br>
+<em style="color:gray;">2024</em>
 
-- Developed cross-platform mobile applications
-- Implemented Flutter best practices
-- Collaborated with senior developers
-- Delivered production-ready features
+<ul>
+<li>📱 Developed cross-platform mobile apps using <b>Flutter</b></li>
+<li>🧩 Applied <b>Flutter best practices</b> for performance and scalability</li>
+<li>🤝 Collaborated with senior developers on production features</li>
+<li>🚀 Delivered high-quality, production-ready solutions</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Full-Stack Developer
-**Marsa Startup**  
-*2023*
+<h3>💻 <span style="color:#45B7D1;">Full-Stack Developer</span></h3>
+<b style="color:#1DD1A1;">Marsa Startup</b><br>
+<em style="color:gray;">2023</em>
 
-- Built scalable web applications
-- Designed RESTful APIs
-- Implemented responsive UI/UX
-- Managed database architecture
+<ul>
+<li>🌐 Built <b>scalable web applications</b> with modern frameworks</li>
+<li>⚙️ Designed and implemented <b>RESTful APIs</b></li>
+<li>🎨 Created responsive and dynamic <b>UI/UX</b></li>
+<li>🗄️ Managed efficient <b>database architecture</b></li>
+</ul>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Teaching Assistant
-**Jimma University**  
-*2024*
+<h3>🎓 <span style="color:#FF9F43;">Teaching Assistant</span></h3>
+<b style="color:#5F27CD;">Jimma University</b><br>
+<em style="color:gray;">2024</em>
 
-- Assisted in C++ Programming courses
-- Mentored 50+ students
-- Conducted lab sessions
-- Graded assignments and projects
+<ul>
+<li>💡 Assisted in <b>C++ Programming</b> courses</li>
+<li>👨‍🏫 Mentored <b>50+ students</b> and guided lab sessions</li>
+<li>🧮 Conducted hands-on coding sessions</li>
+<li>📝 Evaluated assignments and project work</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌟 Open Source Contributor
-**Various Projects**  
-*Ongoing*
+<h3>🌟 <span style="color:#10AC84;">Open Source Contributor</span></h3>
+<b style="color:#00D2D3;">Various Projects</b><br>
+<em style="color:gray;">Ongoing</em>
 
-- Contributing to community projects
-- Building tools for developers
-- Sharing knowledge through code
-- Collaborating globally
+<ul>
+<li>🤝 Contributed to global <b>open-source initiatives</b></li>
+<li>🛠️ Built <b>developer tools</b> for community use</li>
+<li>🌍 Collaborated with contributors worldwide</li>
+<li>📚 Shared knowledge through clean, reusable code</li>
+</ul>
 
 </td>
 </tr>
 </table>
+
+<hr style="border: 1px solid #6C63FF; width: 80%; margin: 20px auto;">
+<p align="center">
+✨ <b style="color:#6C63FF;">Building, Learning, and Sharing — One Commit at a Time.</b> ✨
+</p>
+
 
 ---
 
