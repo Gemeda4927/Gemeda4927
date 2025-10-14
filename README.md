@@ -35,12 +35,7 @@
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-\`\`\`yaml
-name: Gemeda Tamiru
-located_in: Jimma, Ethiopia
-current_role: Software Engineering Student
-education: Jimma University - Institute of Technology
-focus: Full-Stack Development & Community Impact
+Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused on Full-Stack Development and building impactful solutions. With a strong commitment to innovation, learning, and community improvement, he strives to create technologies that make a real difference in people’s lives.
 
 fields_of_interests:
   - Web Development
