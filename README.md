@@ -268,7 +268,6 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 <div align="center">
 
-###"Code with Purpose, Innovate for Impact, and Keep Learning!" 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
