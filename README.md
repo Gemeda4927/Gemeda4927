@@ -98,48 +98,27 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 ---
 
----
-
-<h2 align="center">📊 <span style="color:#6C63FF;">Activity Overview</span></h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<table style="width:100%; border-collapse:collapse; background:#0D1117; color:#C9D1D9; border-radius:12px; overflow:hidden; box-shadow:0 2px 10px rgba(102,126,234,0.3);">
-<tr>
-<td width="50%" valign="top" style="padding:18px; text-align:left;">
-
-<h3 style="color:#58A6FF;">🧩 Contributions</h3>
-<p>Contributed to:</p>
-
-<ul style="list-style-type:none; padding-left:0;">
-<li>🔹 <a href="https://github.com/whiHak/Car-ShowCase" style="color:#58A6FF;">whiHak/Car-ShowCase</a></li>
-<li>🔹 <a href="https://github.com/whiHak/Cookly-" style="color:#58A6FF;">whiHak/Cookly-</a></li>
-<li>🔹 <a href="https://github.com/whiHak/Rental-Officer-site" style="color:#58A6FF;">whiHak/Rental-Officer-site</a></li>
-<li>and <b>10+</b> other repositories</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="middle" align="center">
-
-<a href="https://github.com/Gemeda4927">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gemeda4927&theme=github_dark&utcOffset=3" width="360" alt="Contribution Radar Graph"/>
-</a>
-
-</td>
-</tr>
-</table>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gemeda4927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemeda4927&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
 </div>
 
-<div align="center" style="margin-top:20px;">
-  <a href="https://github.com/Gemeda4927">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemeda4927&theme=tokyo-night&bg_color=0D1117&color=667eea&line=00FFB9&point=f093fb&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-  </a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemeda4927&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gemeda4927&theme=tokyonight" alt="GitHub Contribution Graph"/>
+</div>
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemeda4927&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
-
 
 
 ---
@@ -241,43 +220,6 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 </table>
 
 ---
-
-
----
-
-## ⚡ Activity Overview
-
-<div align="center">
-
-<a href="https://github.com/Gemeda4927">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gemeda4927&theme=tokyonight" alt="Profile Summary"/>
-</a>
-
-<a href="https://github.com/Gemeda4927">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gemeda4927&theme=tokyonight" alt="Stats Graph"/>
-</a>
-<a href="https://github.com/Gemeda4927">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gemeda4927&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
-</a>
-
-<a href="https://github.com/Gemeda4927">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemeda4927&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=FFFFFF" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-### 🧩 Contribution Radar
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gemeda4927&show_icons=false&hide=stars,prs,issues,contribs&hide_border=true&bg_color=0D1117&custom_title=GitHub+Contribution+Overview&theme=tokyonight" width="0" height="0">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemeda4927&theme=react-dark&bg_color=0D1117&line=f093fb&point=667eea&area=true&hide_border=true" alt="GitHub Activity Radar"/>
-</div>
-
----
-
-
 
 
 ## 🤝 Let's Connect & Collaborate
