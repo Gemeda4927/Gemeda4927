@@ -195,39 +195,7 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 
 
 <hr style="border: 1px solid #6C63FF; width: 80%; margin: 20px auto;">
-<p align="center">
-✨ <b style="color:#6C63FF;">Building, Learning, and Sharing — One Commit at a Time.</b> ✨
-</p>
 
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-\`\`\`mermaid
-mindmap
-  root((Gemeda))
-    AI/ML
-      Machine Learning
-      Deep Learning
-      Neural Networks
-    Cloud
-      AWS
-      Azure
-      GCP
-    Networking
-      HCIA-Datacom
-      Network Security
-      Infrastructure
-    Development
-      Full-Stack
-      Mobile Apps
-      Web3
-\`\`\`
-
-</div>
 
 ### 🌱 Currently Exploring
 
@@ -253,17 +221,6 @@ mindmap
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Applications with Next.js
-- 💡 Understanding React Server Components
-- 🎨 Modern UI/UX Design Principles
-- ☁️ Getting Started with AWS Cloud
-- 🔐 Implementing Secure Authentication
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
