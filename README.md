@@ -222,6 +222,43 @@ Gemeda Tamiru is a passionate and driven Software Engineering enthusiast focused
 ---
 
 
+---
+
+## ⚡ Activity Overview
+
+<div align="center">
+
+<a href="https://github.com/Gemeda4927">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gemeda4927&theme=tokyonight" alt="Profile Summary"/>
+</a>
+
+<a href="https://github.com/Gemeda4927">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gemeda4927&theme=tokyonight" alt="Stats Graph"/>
+</a>
+<a href="https://github.com/Gemeda4927">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gemeda4927&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+</a>
+
+<a href="https://github.com/Gemeda4927">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemeda4927&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=FFFFFF" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+### 🧩 Contribution Radar
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gemeda4927&show_icons=false&hide=stars,prs,issues,contribs&hide_border=true&bg_color=0D1117&custom_title=GitHub+Contribution+Overview&theme=tokyonight" width="0" height="0">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemeda4927&theme=react-dark&bg_color=0D1117&line=f093fb&point=667eea&area=true&hide_border=true" alt="GitHub Activity Radar"/>
+</div>
+
+---
+
+
+
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
