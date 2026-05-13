@@ -30,44 +30,29 @@
 
 ---
 
-<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## `> whoami`
+## 👋 About Me
 
-```dart
-class GemadaTamiru {
-  // ── Identity ─────────────────────────────────
-  final name     = "Gemada Tamiru";
-  final username = "Gemeda4927";
-  final location = "Jimma, Ethiopia 🇪🇹";
+**Gemada Tamiru** — a Software Engineering student at **Jimma University Institute of Technology**, Ethiopia, and Flutter developer at **EagleLion System Technology**.
 
-  // ── Current ──────────────────────────────────
-  final role    = "Software Engineering Student";
-  final uni     = "Jimma University Institute of Technology";
-  final company = "EagleLion System Technology";
+I'm passionate about building digital solutions for **community impact**, pushing into **AI** and **emerging tech**, and writing code that actually matters to people.
 
-  // ── Mission ──────────────────────────────────
-  final mission =
-    "Building digital solutions for community"
-    " impact, AI & emerging tech. 🌍";
+<br/>
 
-  // ── Verified GitHub Achievements ─────────────
-  final badges = [
-    "🦈 Pull Shark ×3",  // merged PRs — earned
-    "⚡ Quickdraw",       // resolved fast — earned
-    "🎲 YOLO",           // shipped boldly — earned
-  ];
+🎓 &nbsp;**Education** — Jimma University Institute of Technology
+&nbsp;&nbsp;&nbsp;&nbsp;💼 &nbsp;**Work** — Flutter Dev @ EagleLion System Technology
+&nbsp;&nbsp;&nbsp;&nbsp;📍 &nbsp;**Location** — Jimma, Ethiopia 🇪🇹
+&nbsp;&nbsp;&nbsp;&nbsp;📬 &nbsp;**Reach me** — [gemedatam@gmail.com](mailto:gemedatam@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 &nbsp;**Portfolio** — [gemedatamiru.dev](https://www.gemedatamiru.dev)
 
-  // ── Stack ────────────────────────────────────
-  final mobile   = ["Flutter", "Dart", "Firebase", "Riverpod"];
-  final web      = ["React", "Next.js", "TypeScript", "Tailwind"];
-  final backend  = ["Node.js", "NestJS", "FastAPI", "PostgreSQL"];
-  final devops   = ["Docker", "AWS", "GitHub Actions", "Linux"];
+<br/>
 
-  String get motto =>
-    "Write code that serves people. 🌱";
-}
-```
+**GitHub Achievements *(earned, not claimed)***
+
+🦈 **Pull Shark ×3** &nbsp;·&nbsp; ⚡ **Quickdraw** &nbsp;·&nbsp; 🎲 **YOLO**
+
+> *"Write code that serves people."* 🌱
 
 <br clear="right"/>
 
@@ -230,7 +215,6 @@ Now  ──── Open source · Community impact · AI & emerging tech 🚀
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gemedatam@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gemedatamiru.dev)
 [![GitHub](https://img.shields.io/badge/@Gemeda4927-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gemeda4927)
-
 
 
 </div>
