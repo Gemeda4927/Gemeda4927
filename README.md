@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ╔══════════════════  HEADER  ══════════════════╗ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0a0a0f,50:4c1d95,100:0a0a0f&amp;height=260&amp;section=header&amp;text=GEMEDA%20TAMIRU&amp;fontSize=72&amp;fontColor=FFD700&amp;fontAlignY=42&amp;desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Full-Stack%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&amp;descSize=17&amp;descAlignY=62&amp;descAlign=50&amp;stroke=FBBF24&amp;strokeWidth=1"/>
+<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyNjAiIHZpZXdCb3g9IjAgMCAxMjAwIDI2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBhMGEwZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzRjMWQ5NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwYTBhMGYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjI2MCIgZmlsbD0idXJsKCNiZykiLz4KICA8dGV4dCB4PSI2MDAiIHk9IjEzMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNjQiIGZvbnQtd2VpZ2h0PSI3MDAiCiAgICAgICAgZmlsbD0iI0ZGRDcwMCIgc3Ryb2tlPSIjRkJCRjI0IiBzdHJva2Utd2lkdGg9IjEiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkdFTUVEQSBUQU1JUlU8L3RleHQ+CiAgPHRleHQgeD0iNjAwIiB5PSIxODAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIgogICAgICAgIGZpbGw9IiNDOUI4RkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlNvZnR3YXJlIEVuZ2luZWVyIMK3IEZsdXR0ZXIgJmFtcDsgRnVsbC1TdGFjayBEZXZlbG9wZXIgwrcgSmltbWEsIEV0aGlvcGlhPC90ZXh0Pgo8L3N2Zz4K"/>
 
 <br/>
 
@@ -23,7 +23,7 @@ Jimma University &#8594; EagleLion System Technology
 
 <br/>
 
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FFD700,50:7C3AED,100:2563EB&amp;height=4"/>
+<img width="60%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjQiIHZpZXdCb3g9IjAgMCA4MDAgNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZDEiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGRDcwMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzdDM0FFRCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyNTYzRUIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNCIgZmlsbD0idXJsKCNkMSkiLz4KPC9zdmc+Cg=="/>
 
 <br/><br/>
 
@@ -44,7 +44,7 @@ Jimma University &#8594; EagleLion System Technology
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0a0a0f,50:7C3AED22,100:0a0a0f&amp;height=2"/>
+<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyIiB2aWV3Qm94PSIwIDAgMTIwMCAyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJkMiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGEwYTBmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjN0MzQUVEIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBhMGEwZiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMiIgZmlsbD0idXJsKCNkMikiLz4KPC9zdmc+Cg=="/>
 
 </div>
 
@@ -394,7 +394,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0a0a0f,50:2d1b69,100:0a0a0f&amp;height=140&amp;section=footer&amp;text=Let%27s%20Build%20Something%20Great&amp;fontSize=26&amp;fontColor=FFD700&amp;fontAlignY=55"/>
+<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxNDAiIHZpZXdCb3g9IjAgMCAxMjAwIDE0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZmIiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBhMGEwZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzJkMWI2OSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwYTBhMGYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjE0MCIgZmlsbD0idXJsKCNmYikiLz4KICA8dGV4dCB4PSI2MDAiIHk9Ijc4IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNiIgZm9udC13ZWlnaHQ9IjcwMCIKICAgICAgICBmaWxsPSIjRkZENzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5MZXQncyBCdWlsZCBTb21ldGhpbmcgR3JlYXQ8L3RleHQ+Cjwvc3ZnPgo="/>
 
 <br/>
 
