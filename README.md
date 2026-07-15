@@ -1,21 +1,27 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  GEMADA TAMIRU · GITHUB PROFILE              -->
+<!--                  GEMEDA TAMIRU · GITHUB PROFILE               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ╔══════════════════  ANIMATED HEADER  ══════════════════╗ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,15:4c1d95,35:7c3aed,55:c026d3,75:2563eb,100:0a0a0f&height=300&section=header&text=GEMEDA%20TAMIRU&fontSize=80&fontColor=FFD700&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20%26%20Full-Stack%20Developer%20%E2%80%A2%20Jimma%2C%20Ethiopia&descSize=17&descAlignY=56&descAlign=50&stroke=FBBF24&strokeWidth=2"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,20:4c1d95,45:7c3aed,70:2563eb,100:0a0a0f&height=270&section=header&text=GEMEDA%20TAMIR&fontSize=76&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Full-Stack%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=16&descAlignY=60&descAlign=50&stroke=FBBF24&strokeWidth=1"/>
+<!-- ── Glowing name plate ─────────────────────────────────── -->
+<a href="https://gemedatam.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=42&duration=3200&pause=1000&color=FFD700,F472B6,7C3AED,60A5FA&center=true&vCenter=true&width=650&height=70&lines=%E2%9C%A8+Gemeda+Tamiru+%E2%9C%A8;%F0%9F%9A%80+Flutter+%C3%97+Full-Stack+%C3%97+AI+%F0%9F%9A%80" alt="Gemeda Tamiru"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-GEMEDA%20TAMIR-FFD700?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=7C3AED&color=2563EB"/>
-
-<!-- ── Typing SVG ─────────────────────────────────────────── -->
+<!-- ── Rotating skill ticker ──────────────────────────────── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+digital+solutions+for+community+impact;Full-Stack+Developer+%7C+Flutter+Specialist;Jimma+University+%E2%86%92+EagleLion+System+Technology;Open+Source+%7C+AI+%7C+Emerging+Technology;Crafting+products+for+Oromia%27s+communities;Pull+Shark+%C3%97+3+%7C+Quickdraw+%7C+YOLO" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=%F0%9F%92%A1+Building+digital+solutions+for+community+impact;%F0%9F%93%B1+Full-Stack+Developer+%7C+Flutter+Specialist;%F0%9F%8E%93+Jimma+University+%E2%86%92+EagleLion+System+Technology;%F0%9F%A4%96+Open+Source+%7C+AI+%7C+Emerging+Technology;%F0%9F%8C%8D+Crafting+products+for+Oromia%27s+communities;%F0%9F%8F%86+Pull+Shark+%C3%97+3+%7C+Quickdraw+%7C+YOLO" alt="Typing SVG"/>
 </a>
+
+<br/>
+
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,25:F472B6,50:7C3AED,75:2563EB,100:FFD700&height=5&animation=blink&section=footer"/>
 
 <br/><br/>
 
@@ -29,10 +35,14 @@
 <br/><br/>
 
 <!-- ── Live Stat Pills ────────────────────────────────────── -->
-<img src="https://komarev.com/ghpvc/?username=Gemeda4927&color=7C3AED&style=flat-square&label=Profile+Views"/>&nbsp;
-<a href="https://github.com/Gemeda4927?tab=followers"><img src="https://img.shields.io/github/followers/Gemeda4927?style=flat-square&color=60A5FA&logo=github&logoColor=white&label=Followers&labelColor=111111"/></a>&nbsp;
-<a href="https://github.com/Gemeda4927?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGemeda4927&query=%24.public_repos&label=Repositories&style=flat-square&color=A78BFA&logo=github&logoColor=white&labelColor=111111"/></a>&nbsp;
-<a href="https://github.com/Gemeda4927"><img src="https://img.shields.io/github/stars/Gemeda4927?style=flat-square&color=FBBF24&logo=github&logoColor=white&label=Stars&labelColor=111111"/></a>
+<img src="https://komarev.com/ghpvc/?username=Gemeda4927&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>&nbsp;
+<a href="https://github.com/Gemeda4927?tab=followers"><img src="https://img.shields.io/github/followers/Gemeda4927?style=for-the-badge&color=60A5FA&logo=github&logoColor=white&label=FOLLOWERS&labelColor=111111"/></a>&nbsp;
+<a href="https://github.com/Gemeda4927?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGemeda4927&query=%24.public_repos&label=REPOS&style=for-the-badge&color=A78BFA&logo=github&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://github.com/Gemeda4927"><img src="https://img.shields.io/github/stars/Gemeda4927?style=for-the-badge&color=FBBF24&logo=github&logoColor=white&label=STARS&labelColor=111111"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:7C3AED22,100:0a0a0f&height=2"/>
 
 </div>
 
@@ -44,9 +54,9 @@
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### About Me
+### 🧑‍💻 About Me
 
-<span style="color:#A78BFA; font-size:1.05em"><strong>Gemada Tamiru</strong></span> is a <span style="color:#60A5FA"><strong>Software Engineer</strong></span> and <span style="color:#02569B"><strong>Flutter Developer</strong></span> at EagleLion System Technology, a graduate of Jimma University Institute of Technology, Ethiopia.
+<span style="color:#A78BFA; font-size:1.05em"><strong>Gemeda Tamiru</strong></span> is a <span style="color:#60A5FA"><strong>Software Engineer</strong></span> and <span style="color:#02569B"><strong>Flutter Developer</strong></span> at EagleLion System Technology, a graduate of Jimma University Institute of Technology, Ethiopia.
 
 He builds digital solutions at the intersection of clean mobile architecture, full-stack web engineering, and community impact — with a growing focus on AI, on-device ML, and emerging technology. Several of his projects draw on cultural roots in Oromia, weaving Gadaa tradition motifs into modern, polished interfaces for community and nonprofit organizations.
 
@@ -76,7 +86,7 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 
 <!-- ══════════════════  FEATURED PROJECTS  ══════════════════ -->
 
-### Featured Work
+### 🚀 Featured Work
 
 <div align="center">
 
@@ -149,7 +159,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  GITHUB STATS  ══════════════════ -->
 
-### GitHub Stats &nbsp; <img src="https://img.shields.io/badge/live-60A5FA?style=flat-square&logo=github&logoColor=white&labelColor=111111"/>
+### 📊 GitHub Stats &nbsp; <img src="https://img.shields.io/badge/live-60A5FA?style=flat-square&logo=github&logoColor=white&labelColor=111111"/>
 
 <div align="center">
 
@@ -178,7 +188,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  TROPHIES  ══════════════════ -->
 
-### Trophies
+### 🏆 Trophies
 
 <div align="center">
 <img width="97%" src="https://github-profile-trophy.vercel.app/?username=Gemeda4927&theme=algolia&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
@@ -188,7 +198,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  TECH STACK  ══════════════════ -->
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -262,7 +272,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  CAREER  ══════════════════ -->
 
-### Career Timeline
+### 📅 Career Timeline
 
 <div align="center">
 
@@ -281,7 +291,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  CURRENTLY BUILDING  ══════════════════ -->
 
-### Currently Building
+### 🔭 Currently Building
 
 <div align="center">
 
@@ -312,7 +322,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  ACHIEVEMENTS  ══════════════════ -->
 
-### GitHub Achievements
+### 🎖️ GitHub Achievements
 
 <div align="center">
 
@@ -353,7 +363,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <!-- ══════════════════  ANALYTICS  ══════════════════ -->
 
-### Contribution Analytics
+### 📈 Contribution Analytics
 
 <div align="center">
 
@@ -382,7 +392,7 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1060,100:0a0a0f&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:2d1b69,50:7c3aed,75:1a1060,100:0a0a0f&height=180&section=footer&animation=twinkling&text=Let%27s%20Build%20Something%20Great&fontSize=26&fontColor=FFD700&fontAlignY=68"/>
 
 <br/>
 
@@ -398,6 +408,6 @@ A personal portfolio site with a dedicated certifications section, <span style="
 
 <br/><br/>
 
-<sub>All stat cards pull live data from GitHub on every page load — no static numbers.</sub>
+<sub>⭐ All stat cards pull live data from GitHub on every page load — no static numbers.</sub>
 
 </div>
