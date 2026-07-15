@@ -54,7 +54,7 @@ Jimma University &#8594; EagleLion System Technology
 
 <!-- ══════════════════  ABOUT  ══════════════════ -->
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="330" src="https://images.unsplash.com/photo-1754548930550-be9fa88874f4?w=800&h=560&fit=crop&auto=format&q=80" style="border-radius:8px"/>
 
 ### About Me
 
