@@ -6,21 +6,21 @@
 
 <!-- ╔══════════════════  ANIMATED HEADER  ══════════════════╗ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b3e,60:1a1060,100:2d1b69&height=260&section=header&text=GEMADA%20TAMIRU&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=44&desc=Software%20Engineer%20%C2%B7%20Flutter%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=15&descAlignY=66&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b3e,60:1a1060,100:2d1b69&height=270&section=header&text=GEMADA%20TAMIRU&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Full-Stack%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=15&descAlignY=62&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
 
 <!-- ── Typing SVG ─────────────────────────────────────────── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+digital+solutions+for+community+impact;Full-Stack+Developer+%7C+Flutter+Specialist;Jimma+University+%E2%86%92+EagleLion+System+Technology;Open+Source+%7C+AI+%7C+Emerging+Technology;Pull+Shark+%C3%97+3+%7C+Quickdraw+%7C+YOLO" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+digital+solutions+for+community+impact;Full-Stack+Developer+%7C+Flutter+Specialist;Jimma+University+%E2%86%92+EagleLion+System+Technology;Open+Source+%7C+AI+%7C+Emerging+Technology;Crafting+products+for+Oromia%27s+communities;Pull+Shark+%C3%97+3+%7C+Quickdraw+%7C+YOLO" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <!-- ── Social Badges ─────────────────────────────────────── -->
 <a href="mailto:gemedatam@gmail.com"><img src="https://img.shields.io/badge/Gmail-gemedatam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
-<a href="https://www.gemedatamiru.dev"><img src="https://img.shields.io/badge/Portfolio-gemedatamiru.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://gemedatam.com"><img src="https://img.shields.io/badge/Website-gemedatam.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/gemedatamiru"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://t.me/Abbaabiyyaa2"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111"/></a>&nbsp;
-<a href="https://pub.dev/publishers/gemedatamiru.dev/packages"><img src="https://img.shields.io/badge/pub.dev-Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=111111"/></a>
+<a href="https://pub.dev/publishers/gemedatam.com/packages"><img src="https://img.shields.io/badge/pub.dev-Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=111111"/></a>
 
 <br/><br/>
 
@@ -40,11 +40,11 @@
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### About
+### About Me
 
 **Gemada Tamiru** is a Software Engineering student at Jimma University Institute of Technology and Flutter developer at EagleLion System Technology, Ethiopia.
 
-He builds digital solutions at the intersection of clean mobile architecture, full-stack engineering, and community impact — with a growing focus on AI and emerging technology.
+He builds digital solutions at the intersection of clean mobile architecture, full-stack web engineering, and community impact — with a growing focus on AI, on-device ML, and emerging technology. Several of his projects draw on cultural roots in Oromia, weaving Gadaa tradition motifs into modern, polished interfaces for community and nonprofit organizations.
 
 <br/>
 
@@ -54,7 +54,8 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 | <img src="https://img.shields.io/badge/Company-111111?style=flat-square&logo=flutter&logoColor=02569B"/> | EagleLion System Technology |
 | <img src="https://img.shields.io/badge/Location-111111?style=flat-square&logo=googlemaps&logoColor=EA4335"/> | Jimma, Ethiopia |
 | <img src="https://img.shields.io/badge/Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335"/> | [gemedatam@gmail.com](mailto:gemedatam@gmail.com) |
-| <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=vercel&logoColor=ffffff"/> | [gemedatamiru.dev](https://www.gemedatamiru.dev) |
+| <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=vercel&logoColor=ffffff"/> | [gemedatam.com](https://gemedatam.com) |
+| <img src="https://img.shields.io/badge/Focus-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00"/> | Flutter · Next.js · Community Tech · AI |
 
 <br/>
 
@@ -66,6 +67,79 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 > *"Write code that serves people."*
 
 <br clear="right"/>
+
+---
+
+<!-- ══════════════════  FEATURED PROJECTS  ══════════════════ -->
+
+### Featured Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌿 Gurmuu Tola**
+<br/>
+Nonprofit community platform built with Next.js, Framer Motion, and a forest-green/gold identity inspired by the Gadaa tradition — featuring a timeline section, event detail modals, an animated programs carousel, and a custom gallery with polished image presentation.
+
+`Next.js` `Framer Motion` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Marsa Teck**
+<br/>
+A digital studio portfolio site with a dark, cyan/purple/pink glow aesthetic — built on Next.js 15 App Router with a tech-stack showcase, inline SVG illustrations, and custom device mockup components.
+
+`Next.js 15` `React` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⛪ Garmadu Church**
+<br/>
+A fully responsive church website built in React & TypeScript, engineered for mobile-first fluidity using `clamp()`-based spacing and `auto-fit` grid layouts.
+
+`React` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Networking Exam Prep**
+<br/>
+A Flutter MCQ exam-prep app for a university networking course, with detailed per-option explanations and a clean, professional, academic UI.
+
+`Flutter` `Dart`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ UserHub**
+<br/>
+A Java Swing desktop application with a custom-painted dark emerald UI, MySQL integration, and a complete login/register/dashboard flow.
+
+`Java Swing` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Certifications Portfolio**
+<br/>
+A personal portfolio site with a dedicated certifications section, centralized data modeling, slug-based routing, and an interactive lightbox viewer.
+
+`Next.js` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -138,6 +212,7 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 
 </td>
@@ -153,7 +228,9 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -305,12 +382,12 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 
 <br/>
 
-**Open to Flutter roles, open-source collaborations, and speaking at events.**
+**Open to Flutter roles, full-stack collaborations, open-source contributions, and speaking at events.**
 
 <br/>
 
 <a href="mailto:gemedatam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"/></a>&nbsp;
-<a href="https://www.gemedatamiru.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/></a>&nbsp;
+<a href="https://gemedatam.com"><img src="https://img.shields.io/badge/Website-gemedatam.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://github.com/Gemeda4927"><img src="https://img.shields.io/badge/@Gemeda4927-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/></a>&nbsp;
 <a href="https://linkedin.com/in/gemedatamiru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/></a>&nbsp;
 <a href="https://t.me/Abbaabiyyaa2"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111"/></a>
