@@ -42,7 +42,7 @@
 
 ### About Me
 
-**Gemada Tamiru** is a Software Engineering student at Jimma University Institute of Technology and Flutter developer at EagleLion System Technology, Ethiopia.
+**Gemada Tamiru** is a Software Engineer and Flutter developer at EagleLion System Technology, a graduate of Jimma University Institute of Technology, Ethiopia.
 
 He builds digital solutions at the intersection of clean mobile architecture, full-stack web engineering, and community impact — with a growing focus on AI, on-device ML, and emerging technology. Several of his projects draw on cultural roots in Oromia, weaving Gadaa tradition motifs into modern, polished interfaces for community and nonprofit organizations.
 
@@ -80,60 +80,60 @@ He builds digital solutions at the intersection of clean mobile architecture, fu
 <tr>
 <td width="50%" valign="top">
 
-**🌿 Gurmuu Tola**
-<br/>
-Nonprofit community platform built with Next.js, Framer Motion, and a forest-green/gold identity inspired by the Gadaa tradition — featuring a timeline section, event detail modals, an animated programs carousel, and a custom gallery with polished image presentation.
+<img src="https://img.shields.io/badge/Gurmuu%20Tola-2E7D32?style=for-the-badge&logo=leaflet&logoColor=FFD700&labelColor=0d1117"/>
+<br/><br/>
+Nonprofit community platform built with <span style="color:#60A5FA"><strong>Next.js</strong></span> and <span style="color:#A78BFA"><strong>Framer Motion</strong></span>, wrapped in a forest-green/gold identity inspired by the Gadaa tradition — featuring a timeline section, event detail modals, an animated programs carousel, and a custom gallery with polished image presentation.
 
-`Next.js` `Framer Motion` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-**🚀 Marsa Teck**
-<br/>
-A digital studio portfolio site with a dark, cyan/purple/pink glow aesthetic — built on Next.js 15 App Router with a tech-stack showcase, inline SVG illustrations, and custom device mockup components.
-
-`Next.js 15` `React` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⛪ Garmadu Church**
-<br/>
-A fully responsive church website built in React & TypeScript, engineered for mobile-first fluidity using `clamp()`-based spacing and `auto-fit` grid layouts.
-
-`React` `TypeScript`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-**📚 Networking Exam Prep**
-<br/>
-A Flutter MCQ exam-prep app for a university networking course, with detailed per-option explanations and a clean, professional, academic UI.
+<img src="https://img.shields.io/badge/Marsa%20Teck-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+<br/><br/>
+A digital studio portfolio site with a <span style="color:#EC4899"><strong>dark, cyan/purple/pink glow</strong></span> aesthetic — built on Next.js 15 App Router with a tech-stack showcase, inline SVG illustrations, and custom device mockup components.
 
-`Flutter` `Dart`
+<img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🖥️ UserHub**
-<br/>
-A Java Swing desktop application with a custom-painted dark emerald UI, MySQL integration, and a complete login/register/dashboard flow.
+<img src="https://img.shields.io/badge/Garmadu%20Church-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=0d1117"/>
+<br/><br/>
+A fully responsive church website built in <span style="color:#61DAFB"><strong>React</strong></span> & <span style="color:#3178C6"><strong>TypeScript</strong></span>, engineered for mobile-first fluidity using `clamp()`-based spacing and `auto-fit` grid layouts.
 
-`Java Swing` `MySQL`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 Certifications Portfolio**
-<br/>
-A personal portfolio site with a dedicated certifications section, centralized data modeling, slug-based routing, and an interactive lightbox viewer.
+<img src="https://img.shields.io/badge/Networking%20Exam%20Prep-FBBF24?style=for-the-badge&logo=googlescholar&logoColor=111111&labelColor=0d1117"/>
+<br/><br/>
+A Flutter MCQ exam-prep app for a university networking course, with detailed per-option explanations and a clean, <span style="color:#02569B"><strong>professional, academic UI</strong></span>.
 
-`Next.js` `TypeScript`
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/UserHub-10B981?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=0d1117"/>
+<br/><br/>
+A Java Swing desktop application with a <span style="color:#10B981"><strong>custom-painted dark emerald UI</strong></span>, MySQL integration, and a complete login/register/dashboard flow.
+
+<img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Certifications%20Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+<br/><br/>
+A personal portfolio site with a dedicated certifications section, <span style="color:#A78BFA"><strong>centralized data modeling</strong></span>, slug-based routing, and an interactive lightbox viewer.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
 </tr>
@@ -264,7 +264,7 @@ A personal portfolio site with a dedicated certifications section, centralized d
 
 | Period | Role | Organization | Stack |
 |:------:|:-----|:-------------|:------|
-| **2020** | Software Engineering Student | Jimma University Institute of Technology | — |
+| **2020 – 2024** | B.Sc. Software Engineering | Jimma University Institute of Technology | — |
 | **2022** | Self-directed Flutter Study | — | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> |
 | **2023** | Full-Stack Developer | Marsa Startup | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> |
 | **2024** | Flutter Developer | EagleLion System Technology | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> |
