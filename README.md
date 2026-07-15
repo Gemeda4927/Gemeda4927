@@ -6,7 +6,11 @@
 
 <!-- ╔══════════════════  ANIMATED HEADER  ══════════════════╗ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b3e,60:1a1060,100:2d1b69&height=270&section=header&text=GEMADA%20TAMIRU&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Full-Stack%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=15&descAlignY=62&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,20:4c1d95,45:7c3aed,70:2563eb,100:0a0a0f&height=270&section=header&text=GEMEDA%20TAMIR&fontSize=76&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Full-Stack%20Developer%20%C2%B7%20Jimma%2C%20Ethiopia&descSize=16&descAlignY=60&descAlign=50&stroke=FBBF24&strokeWidth=1"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-GEMEDA%20TAMIR-FFD700?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=7C3AED&color=2563EB"/>
 
 <!-- ── Typing SVG ─────────────────────────────────────────── -->
 <a href="https://git.io/typing-svg">
