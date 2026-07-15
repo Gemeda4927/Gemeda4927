@@ -42,7 +42,7 @@
 
 ### About Me
 
-**Gemada Tamiru** is a Software Engineer and Flutter developer at EagleLion System Technology, a graduate of Jimma University Institute of Technology, Ethiopia.
+<span style="color:#A78BFA; font-size:1.05em"><strong>Gemada Tamiru</strong></span> is a <span style="color:#60A5FA"><strong>Software Engineer</strong></span> and <span style="color:#02569B"><strong>Flutter Developer</strong></span> at EagleLion System Technology, a graduate of Jimma University Institute of Technology, Ethiopia.
 
 He builds digital solutions at the intersection of clean mobile architecture, full-stack web engineering, and community impact — with a growing focus on AI, on-device ML, and emerging technology. Several of his projects draw on cultural roots in Oromia, weaving Gadaa tradition motifs into modern, polished interfaces for community and nonprofit organizations.
 
